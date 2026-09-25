@@ -11,3 +11,8 @@
     "records": [
     ]
 }
+ "user": "PlayerOne",
+            "link": "https://www.youtube.com/watch?v=VIDEO_ID_HERE",
+            "percent": 100,
+            "hz": 60, --TPS NOT FPS
+            "device": "console"
